@@ -19,5 +19,9 @@ img {
 }
 figcaption {
   text-align: center;
-  font-size: 10px
+  font-size: 12px;
+}
+#featured-property {
+  text-align: center;
+  width: 800px;
 }
