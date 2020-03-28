@@ -27,5 +27,6 @@ figcaption {
   margin: auto;
 }
 #details div {
+  float: left;
   
 }
