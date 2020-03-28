@@ -29,5 +29,6 @@ figcaption {
 #details div {
   float: left;
   background-color: green;
-  occupy:
+  width: 25%;
+  
 }
